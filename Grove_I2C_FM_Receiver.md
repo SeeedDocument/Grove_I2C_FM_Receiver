@@ -6,7 +6,7 @@
 
 Grove - I2C FM Receiver is a wideband FM receiver module, this module is based on RDA5807M. The RDA5807M series is the newest generation single-chip broadcast FM stereo radio tuner with fully integrated synthesizer. The RDA5807M series has a powerful low-IF digital audio processor. The Grove - I2C FM Receiver has a headset jack, so it can connect to earphones or audio.
 
-[![enter image description here](http://www.seeedstudio.com/wiki/images/thumb/d/d0/Get_One_Now_Banner.png/150px-Get_One_Now_Banner.png)](LINK)
+[![enter image description here](http://www.seeedstudio.com/wiki/images/thumb/d/d0/Get_One_Now_Banner.png/150px-Get_One_Now_Banner.png)](https://www.seeedstudio.com/item_detail.html?p_id=1953)
 
 
 ## Features ##
